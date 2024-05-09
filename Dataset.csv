@@ -1,0 +1,101 @@
+Project ID,Project Name,Client Name,Start Date,End Date,Status,Budget,Spent,Profit,Region,Industry,Service Line
+1,Digital Upgrade,XYZ Corp,2017-01-15,2018-06-30,In Progress,500000,350000,150000,"North America",Technology,Consulting
+2,Healthcare Portal,ABC Hospital,2020-02-10,2021-03-15,Planned,750000,0,750000,Europe,Healthcare,Technology
+3,ERP Integration,DEF Bank,2021-04-01,2022-09-30,In Progress,1000000,500000,500000,Asia,Finance,Outsourcing
+4,AI Automation,GHI Insurance,2018-11-20,2019-08-31,Completed,300000,300000,0,Australia,Insurance,Technology
+5,Supply Chain Revamp,JKL Retail,2021-03-05,2022-12-31,In Progress,1500000,800000,700000,"North America",Retail,Consulting
+6,Digital Transformation,MNO Corporation,2016-06-20,2017-12-31,Completed,800000,800000,0,Europe,Technology,Consulting
+7,CRM Implementation,PQR Retail,2020-01-10,2021-07-15,In Progress,600000,400000,200000,"North America",Retail,Technology
+8,HR System Upgrade,STU Enterprises,2018-08-05,2019-05-30,Completed,400000,400000,0,Asia,Services,Technology
+9,Cloud Migration,VWX Tech,2021-03-15,2022-10-20,Planned,1200000,0,1200000,Australia,Technology,Consulting
+10,Data Analytics Platform,YZA Bank,2019-09-30,2020-11-15,In Progress,900000,600000,300000,Europe,Finance,Technology
+11,E-commerce Integration,BCD Retail,2020-02-28,2021-04-30,In Progress,700000,300000,400000,"North America",Retail,Technology
+12,Risk Management System,EFG Insurance,2018-11-10,2019-08-15,Completed,350000,350000,0,Asia,Insurance,Consulting
+13,AI Chatbot Development,HIJ Tech,2023-07-05,2024-09-10,Planned,1500000,0,1500000,Europe,Technology,Consulting
+14,Marketing Campaign Analysis,KLM Corp,2015-05-12,2016-03-20,Completed,200000,200000,0,"North America",Marketing,Consulting
+15,Supply Chain Optimization,NOP Retail,2020-01-02,2021-06-25,In Progress,1100000,700000,400000,Asia,Retail,Consulting
+16,Financial Reporting System,QRS Bank,2018-10-18,2019-09-05,Completed,600000,600000,0,Australia,Finance,Technology
+17,Mobile App Development,TUV Tech,2021-04-20,2022-11-30,In Progress,1000000,500000,500000,"North America",Technology,Consulting
+18,Customer Service Platform,WXY Telecom,2017-07-08,2018-12-10,Completed,450000,450000,0,Europe,Telecom,Technology
+19,ERP System Enhancement,ZAB Corp,2020-02-15,2021-07-01,In Progress,800000,400000,400000,Asia,Services,Technology
+20,Sustainability Initiative,CDE Energy,2018-11-30,2019-10-15,Planned,1300000,0,1300000,Australia,Energy,Consulting
+21,Cybersecurity Audit,FGH Bank,2023-05-08,2024-08-20,In Progress,700000,350000,350000,"North America",Finance,Technology
+22,Data Privacy Compliance,IJK Corp,2018-08-25,2019-04-05,Completed,250000,250000,0,Europe,Services,Consulting
+23,IT Infrastructure Upgrade,LMN Tech,2021-03-02,2022-09-15,Planned,1800000,0,1800000,Asia,Technology,Consulting
+24,Supply Chain Visibility,OPQ Retail,2018-10-10,2019-11-20,Completed,500000,500000,0,"North America",Retail,Technology
+25,Predictive Maintenance,RST Motors,2023-04-15,2024-12-05,In Progress,1500000,800000,700000,Europe,Automotive,Technology
+26,Digital Marketing Campaign,UVW Corp,2018-12-20,2019-06-30,In Progress,300000,150000,150000,Asia,Marketing,Consulting
+27,Blockchain Integration,XYZ Bank,2020-02-05,2021-10-10,Planned,2000000,0,2000000,Australia,Finance,Technology
+28,Smart City Initiative,ABC Municipality,2017-09-15,2018-08-05,In Progress,1200000,600000,600000,"North America",Government,Consulting
+29,Telemedicine Platform,DEF Healthcare,2020-01-30,2021-07-20,Planned,900000,0,900000,Europe,Healthcare,Technology
+30,Robotic Process Automation,GHI Services,2016-06-10,2017-04-25,Completed,350000,350000,0,Asia,Services,Technology
+31,Data Warehouse Optimization,LMN Corp,2018-08-10,2019-07-20,In Progress,850000,500000,350000,"North America",Technology,Consulting
+32,Cloud Security Implementation,OPQ Tech,2023-04-25,2024-11-30,Planned,1100000,0,1100000,Europe,Technology,Consulting
+33,Enterprise Mobility Solution,UVW Enterprises,2018-12-05,2019-09-15,Completed,600000,600000,0,Asia,Services,Technology
+34,Machine Learning Project,XYZ Tech,2020-02-15,2021-08-10,In Progress,1300000,700000,600000,"North America",Technology,Consulting
+35,Customer Relationship Management,FGH Corp,2018-10-30,2019-12-31,Completed,400000,400000,0,Europe,Services,Consulting
+36,Supply Chain Analytics,HIJ Retail,2020-01-20,2021-06-30,In Progress,1200000,600000,600000,Asia,Retail,Technology
+37,AI-driven Marketing Campaigns,KLM Enterprises,2015-05-05,2016-04-15,Planned,750000,0,750000,Australia,Marketing,Consulting
+38,Healthcare Data Management,PQR Healthcare,2021-03-10,2022-08-25,In Progress,950000,500000,450000,"North America",Healthcare,Technology
+39,Big Data Analytics Platform,STU Tech,2018-08-20,2019-06-15,Completed,850000,850000,0,Europe,Technology,Consulting
+40,Cybersecurity Training Program,VWX Corp,2020-02-01,2021-09-30,Planned,1500000,0,1500000,Asia,Services,Consulting
+41,Financial Risk Assessment,LMN Bank,2018-09-15,2019-11-10,Completed,500000,500000,0,Australia,Finance,Consulting
+42,Cloud Infrastructure Migration,RST Tech,2023-04-10,2024-12-20,In Progress,1800000,900000,900000,"North America",Technology,Consulting
+43,Telecom Network Optimization,ABC Telecom,2018-09-01,2019-07-05,Planned,1200000,0,1200000,Europe,Telecom,Consulting
+44,Blockchain Application Development,DEF Tech,2020-01-25,2021-08-15,In Progress,1300000,700000,600000,Asia,Technology,Consulting
+45,Smart Manufacturing Solutions,GHI Manufacturing,2016-06-15,2017-05-30,Completed,650000,650000,0,Europe,Manufacturing,Technology
+46,Salesforce CRM Integration,JKL Corp,2020-03-20,2021-10-25,Planned,1000000,0,1000000,"North America",Services,Consulting
+47,Healthcare Analytics Platform,MNO Healthcare,2018-12-10,2019-09-20,In Progress,1400000,800000,600000,Europe,Healthcare,Technology
+48,Data Governance Framework,OPQ Corp,2023-04-05,2024-11-15,Planned,1200000,0,1200000,Asia,Services,Consulting
+49,E-commerce Website Redesign,UVW Retail,2018-08-15,2019-06-10,Completed,400000,400000,0,"North America",Retail,Technology
+50,Artificial Intelligence Strategy,YZA Enterprises,2020-02-05,2021-08-30,In Progress,1600000,900000,700000,Europe,Services,Consulting
+51,Data Quality Improvement,LMN Corporation,2017-07-20,2018-08-25,Planned,950000,0,950000,"North America",Technology,Consulting
+52,Cloud Data Migration,OPQ Enterprises,2021-03-05,2022-10-15,In Progress,1200000,700000,500000,Europe,Technology,Consulting
+53,Enterprise Resource Planning,UVW Corporation,2017-11-15,2018-09-30,Completed,850000,850000,0,Asia,Services,Technology
+54,Machine Learning Model Deployment,XYZ Enterprises,2020-01-20,2021-08-10,In Progress,1300000,700000,600000,"North America",Technology,Consulting
+55,Customer Analytics Solution,FGH Retail,2018-10-10,2019-12-20,Planned,1000000,0,1000000,Europe,Retail,Technology
+56,Supply Chain Management System Upgrade,HIJ Corp,2020-02-28,2021-07-31,In Progress,1100000,600000,500000,Asia,Services,Technology
+57,AI-driven Personalization Platform,KLM Tech,2016-06-15,2017-05-05,Planned,800000,0,800000,Australia,Technology,Consulting
+58,Healthcare Data Analytics Solution,PQR Health,2020-01-10,2021-08-01,In Progress,1200000,600000,600000,"North America",Healthcare,Technology
+59,Big Data Platform Implementation,STU Corporation,2017-08-01,2018-07-20,Completed,800000,800000,0,Europe,Technology,Consulting
+60,Cybersecurity Incident Response Plan,VWX Enterprises,2020-01-25,2021-09-10,Planned,1400000,0,1400000,Asia,Services,Consulting
+61,Financial Compliance System Upgrade,LMN Bank,2017-09-10,2018-11-05,Completed,600000,600000,0,Australia,Finance,Consulting
+62,Cloud Services Optimization,RST Corp,2023-03-15,2024-12-30,In Progress,1500000,800000,700000,"North America",Services,Technology
+63,Telecom Infrastructure Upgrade,ABC Telecom,2017-08-05,2018-06-20,Planned,1300000,0,1300000,Europe,Telecom,Consulting
+64,Blockchain Solution Implementation,DEF Tech,2020-02-20,2021-08-25,In Progress,1600000,800000,800000,Asia,Technology,Consulting
+65,Smart Factory Implementation,GHI Manufacturing,2016-06-10,2017-05-15,Completed,700000,700000,0,Europe,Manufacturing,Technology
+66,ERP System Migration,JKL Corp,2020-03-30,2021-10-10,Planned,1100000,0,1100000,"North America",Services,Consulting
+67,Healthcare Data Integration,MNO Health,2018-11-05,2019-09-15,In Progress,1300000,700000,600000,Europe,Healthcare,Technology
+68,Big Data Governance Framework,OPQ Tech,2023-04-10,2024-11-20,Planned,1200000,0,1200000,Asia,Technology,Consulting
+69,E-commerce Platform Enhancement,UVW Retail,2018-08-20,2019-06-25,Completed,450000,450000,0,"North America",Retail,Technology
+70,Artificial Intelligence Research Project,YZA Enterprises,2020-02-10,2021-08-20,In Progress,1800000,900000,900000,Europe,Services,Consulting
+71,Data Migration to Cloud Storage,LMN Corporation,2017-07-15,2018-08-20,Planned,900000,0,900000,"North America",Technology,Consulting
+72,Cloud Security Audit,OPQ Enterprises,2023-03-01,2024-10-05,In Progress,1100000,600000,500000,Europe,Technology,Consulting
+73,Enterprise Data Warehouse Implementation,UVW Corporation,2017-11-10,2018-09-25,Completed,800000,800000,0,Asia,Services,Technology
+74,Machine Learning Algorithm Development,XYZ Enterprises,2020-01-15,2021-08-30,In Progress,1500000,800000,700000,"North America",Technology,Consulting
+75,Customer Segmentation Analysis,FGH Retail,2018-10-05,2019-12-10,Planned,1000000,0,1000000,Europe,Retail,Technology
+76,Data Center Migration,HIJ Enterprises,2020-02-10,2021-09-15,In Progress,1200000,700000,500000,Asia,Technology,Consulting
+77,AI-powered Customer Support,LMN Tech,2018-11-20,2019-08-25,Planned,1500000,0,1500000,"North America",Technology,Consulting
+78,Supply Chain Automation,OPQ Logistics,2020-03-05,2021-10-15,In Progress,1400000,800000,600000,Europe,Logistics,Technology
+79,Cloud Data Governance Implementation,UVW Corp,2018-08-15,2019-07-20,Completed,850000,850000,0,"North America",Services,Consulting
+80,Cybersecurity Risk Assessment,XYZ Security,2020-02-28,2021-08-01,Planned,1100000,0,1100000,Europe,Security,Consulting
+81,Financial Forecasting System Upgrade,FGH Bank,2018-10-10,2019-12-20,In Progress,1000000,500000,500000,Asia,Finance,Technology
+82,Cloud Infrastructure Deployment,HIJ Enterprises,2020-01-15,2021-08-10,Completed,900000,900000,0,Europe,Technology,Consulting
+83,Telehealth Platform Development,LMN Healthcare,2017-07-20,2018-08-05,Planned,800000,0,800000,"North America",Healthcare,Technology
+84,Blockchain Network Implementation,OPQ Tech,2023-03-15,2024-10-30,In Progress,1600000,800000,800000,Europe,Technology,Consulting
+85,Smart City Infrastructure Upgrade,UVW Municipality,2018-11-05,2019-09-20,Completed,700000,700000,0,Asia,Government,Consulting
+86,Data Analytics Platform Development,XYZ Analytics,2020-01-20,2021-08-05,Planned,1300000,0,1300000,"North America",Technology,Consulting
+87,Cloud Security Architecture Review,FGH Enterprises,2018-09-10,2019-11-05,In Progress,1200000,600000,600000,Europe,Technology,Consulting
+88,Enterprise Risk Management System,HIJ Corp,2023-03-01,2024-12-10,Planned,1800000,0,1800000,Asia,Services,Consulting
+89,ERP System Implementation,LMN Corporation,2018-08-20,2019-07-05,Completed,800000,800000,0,"North America",Services,Technology
+90,Machine Learning Model Optimization,OPQ Tech,2020-02-10,2021-09-15,In Progress,1500000,800000,700000,Europe,Technology,Consulting
+91,Customer Data Management Solution,UVW Enterprises,2017-11-10,2018-09-25,Completed,850000,850000,0,Asia,Services,Technology
+92,Cloud Migration Strategy Development,XYZ Tech,2020-01-15,2021-08-30,Planned,1000000,0,1000000,"North America",Technology,Consulting
+93,Healthcare Analytics Implementation,FGH Health,2018-10-05,2019-12-10,In Progress,1400000,700000,700000,Europe,Healthcare,Technology
+94,Big Data Governance Framework Implementation,HIJ Corp,2023-03-30,2024-10-05,Planned,1200000,0,1200000,Asia,Technology,Consulting
+95,E-commerce Platform Development,LMN Retail,2018-08-01,2019-07-20,Completed,750000,750000,0,"North America",Retail,Technology
+96,Artificial Intelligence Research Project,OPQ Tech,2020-02-20,2021-08-25,In Progress,1600000,800000,800000,Europe,Technology,Consulting
+97,Data Center Optimization,UVW Enterprises,2017-11-15,2018-09-30,Completed,900000,900000,0,Asia,Services,Technology
+98,Cybersecurity Incident Response Plan,XYZ Security,2020-01-10,2021-08-20,Planned,1300000,0,1300000,"North America",Security,Consulting
+99,Financial Analytics Platform Development,FGH Bank,2018-07-15,2019-08-20,In Progress,1100000,500000,600000,Europe,Finance,Technology
+100,Cloud Services Optimization,HIJ Corp,2023-03-05,2024-10-15,Planned,1400000,0,1400000,Asia,Services,Consulting
